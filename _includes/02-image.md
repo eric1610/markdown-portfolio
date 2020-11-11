@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Outline of an elephant](https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg)
